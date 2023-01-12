@@ -4,4 +4,6 @@
 
 # take this file and keep it in xampp htdocs
 
-# run your files
+# run your files 
+
+# edit this file to your taste
